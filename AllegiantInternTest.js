@@ -1,5 +1,5 @@
 /**
-Alligiant Internship Techincal Test
+Allegiant Internship Techincal Test
 
 Written by Ocean Douglas Lee 5/12/19
 **/
